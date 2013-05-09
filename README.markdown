@@ -6,10 +6,14 @@ helpnew
 使用例
 ======
 
-    :HelpNew pattern
+    :HelpNew
 
-TODO img
+![helpnew](https://raw.github.com/kannokanno/vim-helpnew/master/helpnew-1.png)
 
-    :HelpNew insert
+    :HelpNew
 
-TODO img
+![helpnew](https://raw.github.com/kannokanno/vim-helpnew/master/helpnew-2.png)
+
+
+このコマンドは新しいヘルプウィンドウを開くだけです。
+現在のヘルプウィンドウを更新したい場合は通常の `:help` を使用してください。
