@@ -1,0 +1,12 @@
+!_TAG_FILE_ENCODING	utf-8	//
+:HelpNew	helpnew.jax	/*:HelpNew*
+g:helpnew_config	helpnew.jax	/*g:helpnew_config*
+helpnew#new()	helpnew.jax	/*helpnew#new()*
+helpnew-changelog	helpnew.jax	/*helpnew-changelog*
+helpnew-command	helpnew.jax	/*helpnew-command*
+helpnew-contents	helpnew.jax	/*helpnew-contents*
+helpnew-functions	helpnew.jax	/*helpnew-functions*
+helpnew-introduction	helpnew.jax	/*helpnew-introduction*
+helpnew-settings	helpnew.jax	/*helpnew-settings*
+helpnew-usage	helpnew.jax	/*helpnew-usage*
+helpnew.txt	helpnew.jax	/*helpnew.txt*
